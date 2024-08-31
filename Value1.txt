@@ -11,3 +11,6 @@ git remote add origin https://github.com/sumathiacse/newmodel.git
 git branch -M main
 git push -u origin main
 git remote add origin https://github.com/sumathiacse/newmodel.git
+it push -u origin main
+it push -u origin main
+it push -u origin main
